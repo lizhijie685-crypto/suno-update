@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "release_notes": "修复重10号suno更新429限流问题",
+  "release_notes": "修复10号suno更新429限流问题",
   "download_url": "https://github.com/lizhijie685-crypto/suno-update/releases/download/v3.0.0/Suno.3.0.zip"
 }
  
