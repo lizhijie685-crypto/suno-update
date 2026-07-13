@@ -1,6 +1,5 @@
 {
-    "version": "1.0.0",
-    "download_url": "https://你的下载链接/Suno音乐工具.exe",
-    "update_date": "2026-06-17",
-    "release_notes": "修复停止功能，优化上传速度"
+  "version": "3.0.0",
+  "release_notes": "修复重10号suno更新429限流问题",
+  "download_url": "https://github.com/lizhijie685-crypto/suno-update/releases/download/v3.0.0/Suno.3.0.zip"
 }
