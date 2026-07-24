@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "release_notes": "修复10号suno更新429限流问题",
-  "download_url": "https://github.com/lizhijie685-crypto/suno-update/releases/download/v3.0.0/Suno.3.0.zip"
+  "version": "3.1.0",
+  "release_notes": "新增批量传歌功能，优化日志显示",
+  "download_url": "https://github.com/lizhijie685-crypto/suno-update/releases/download/v3.1.0/Suno音乐工具3.1.0.exe"
 }
  
