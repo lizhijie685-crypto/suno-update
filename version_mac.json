@@ -1,0 +1,5 @@
+{
+  "version": "3.1.0",
+  "release_notes": "新增批量传歌功能，优化日志显示，适配 macOS",
+  "download_url": "https://github.com/lizhijie685-crypto/suno-update/releases/download/v3.1.0mac/Suno.3.1.0mac.zip"
+}
